@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.json
+*.wsuo
+/Fountain.ServiceHost.Main/obj/Debug
+/Fountain.ServiceHost.AutoWorker/bin/Debug
+/Fountain.ServiceHost.AutoWorker/obj/Debug
+/Fountain.ServiceHost.Main/bin/Debug
